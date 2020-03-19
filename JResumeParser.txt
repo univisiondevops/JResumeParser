@@ -1,0 +1,15 @@
+RESUME PARSER PROJECT
+moto: a software which can be used to accept any type of file which reads and covert to excel file.
+
+REQUIREMENT ANALYSIS
+01 Software should have minimum 10 resumes reading capability at a time.
+02 It should accept the files with pdf extensions.
+03 It should be capable to separate the files with different extension.
+04 If any of the feature is missing for perticular document, it should print the statement "NOT AVAILABLE".
+05 It should print the content in separate columns with respect to column heading in single CSV file.
+
+SOFTWARES NEEDED
+01 Python 3
+02 GitHub
+
+submitted by	: Jees Sebastian
